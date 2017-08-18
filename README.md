@@ -17,7 +17,7 @@ RAM≥128M
 
 使用root用户登录，运行以下命令：
 
-    wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+    wget --no-check-certificate https://github.com/FunctionXJB/TCP-BBR/raw/master/bbr.sh
     chmod +x bbr.sh
     ./bbr.sh
     
